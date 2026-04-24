@@ -197,16 +197,9 @@ Invoke-RestMethod -Uri "http://localhost:3000/bfhl" -Method Post -ContentType "a
 
 ---
 
-## Deployment Notes
+## Deployment on Vercel
 
-Deploy on any platform (Render, Railway, Vercel, etc.).
-
-- **Backend Base URL to submit**: `https://your-deployed-domain.com`
-- Evaluator will call: `https://your-deployed-domain.com/bfhl`
-
-Important: In submission form, **do not append `/bfhl`** in the base URL field.
-
----
+Deployed on Vercel : https://bajaj-full-stack-vercel.vercel.app
 
 ## Submission Checklist
 
@@ -222,7 +215,7 @@ Lakshita
 
 - GitHub: [lakshita4816](https://github.com/lakshita4816)
 - Repository: [Bajaj_FullStack_Lakshita](https://github.com/lakshita4816/Bajaj_FullStack_Lakshita)
-
+- Vercel Deployment : https://bajaj-full-stack-vercel.vercel.app
 ---
 
 <div align="center">
