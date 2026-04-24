@@ -206,6 +206,7 @@ Deployed on Vercel : https://bajaj-full-stack-vercel.vercel.app
 - Hosted API base URL
 - Hosted frontend URL
 - Public GitHub repository URL
+- Deployment on Vercel 
 
 ---
 
